@@ -1,1 +1,23 @@
+ private void Bminus_Click(object sender, RoutedEventArgs e)
+ {
+     int a = (Convert.ToInt32(T.Text) - 1);
+     if (Convert.ToInt32(T.Text) > 0 && Convert.ToInt32(T.Text) <=10)
+     {
+         T.Text = Convert.ToString(a);
+     }
+     else
+     {
 
+     };
+ }
+ private void B__Click(object sender, RoutedEventArgs e)
+ {
+     int b = (Convert.ToInt32(T.Text) + 1);
+     if (Convert.ToInt32(T.Text) >= 0 && Convert.ToInt32(T.Text) < 10)
+     {
+         T.Text = Convert.ToString(b);
+     }
+     else
+     {
+
+     }
