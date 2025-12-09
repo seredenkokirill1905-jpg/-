@@ -1,5 +1,4 @@
 # - Первый репозиторий
-## - содержит read me
 ### Какой-то код 
  private void Button_Click_1(object sender, RoutedEventArgs e)
  {
