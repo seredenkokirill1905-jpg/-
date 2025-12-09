@@ -1,6 +1,6 @@
 # - Первый репозиторий
 ## - содержит read me
-### Какойто код 
+### Какой-то код 
  private void Button_Click_1(object sender, RoutedEventArgs e)
  {
      if (Convert.ToInt32(T2.Text) >= 16 && Convert.ToInt32(T2.Text) <= 24) 
